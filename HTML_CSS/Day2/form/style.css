@@ -1,0 +1,15 @@
+.list{
+    padding: 0;
+    height: 250px;
+    width: 1300px;
+    background-color: blueviolet;
+    font-size: 25px;
+    color: white;
+}
+.form{
+    height: 350px;
+    width: 1300px;
+    background-color: rgb(169, 112, 223);
+    font-size: 25px;
+    color: red;
+}

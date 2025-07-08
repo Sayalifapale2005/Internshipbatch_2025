@@ -1,0 +1,38 @@
+*{
+    padding: 0px;
+    margin: 0px;
+    box-sizing: border-box;
+}
+.heading{
+    height: 100px;
+    width: 1300px;
+    display: flex;
+    justify-content: center;
+    background-color: paleturquoise;
+    color: black;
+    font-size: 45px;
+    font-weight: bolder;
+    border: 2px solid black;
+
+}
+.section1{
+    height: 200px;
+    width: 1300px;
+    /* background-color: blueviolet; */
+    border: 2px solid black;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 20px;
+    margin-top: 10px;
+
+}
+.section2{
+   
+    height: 300px;
+    width: 1300px;
+    /* background-color: rgb(86, 52, 117); */
+    border: 2px solid black;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 20px;
+    margin-top: 20px;
+
+}

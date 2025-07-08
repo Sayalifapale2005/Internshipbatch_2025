@@ -1,0 +1,15 @@
+.Parent{
+    color: rgb(201, 190, 236);
+    height: 500px;
+    width: 500px;
+    background-color: black;
+    font-weight:500;
+}
+#child1{
+    color: rgb(135,100,255);
+    height: 100px;
+    width: 100px;
+    background-color:rgb(13, 189, 37);
+    font-weight:500;  
+
+}
