@@ -1,0 +1,29 @@
+*{
+    margin: 0%;
+    padding: 0%;
+    box-sizing: border-box;
+}
+.parent{
+    display: grid;
+    grid-template-columns: 1fr;
+    grid-template-rows: auto 1fr ;
+    height: 100vh;
+    margin: 10px;
+    gap: 2%;
+}
+.header{
+    border: 2px solid black;
+    border-radius: 10px;
+    padding: 10px;
+}
+.Main{
+    border: 2px solid black;
+    border-radius: 10px;
+    padding: 10px;
+}
+.footer{
+    border: 2px solid black;
+    border-radius: 10px;
+    padding: 10px;
+}
+

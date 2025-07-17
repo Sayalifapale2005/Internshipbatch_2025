@@ -1,0 +1,40 @@
+.box1{
+    height: 100px;
+    width: 100px;
+    border-radius: 50%;
+    background-color: orange;
+    position: relative;
+    animation: move-around 5s forwards 2s ease-in infinite;
+}
+@keyframes move-around {
+    
+      0%{
+          top : 0;
+          left: 0;
+          background: lightsalmon;
+      }
+      25%{
+          top : 0;
+          left: 300px;
+          background: lawngreen;
+      }
+      50%{
+        top: 300px;
+        left: 300px;
+        background: lightcyan;
+
+      }
+       75%{
+         top: 300px;
+         left: 0;
+         background: purple;
+
+       }
+      100%{
+        top: 0;
+        left: 0;
+        background: red;
+
+
+      }
+}
